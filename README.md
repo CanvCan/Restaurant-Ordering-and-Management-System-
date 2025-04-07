@@ -57,9 +57,9 @@ This document outlines the requirements analysis for the development of a **Rest
   - Food Safety
 
 
-### 🗂️ Viewpoint Hierarchy Diagram
+### 🧩 Viewpoint Hierarchy Diagram
 
-![Viewpoint Hierarchy Diagram](viewpoint_hierarchy_diagram.png)
+![Viewpoint Hierarchy Diagram](images/viewpoint_hierarchy_diagram.png)
 
 ### 📋 Description of Each Viewpoint
 
@@ -333,7 +333,7 @@ This document outlines the requirements analysis for the development of a **Rest
 
 ## 7. Domain Model as a UML Diagram
 
-![Domain Model UML](domain_model.png)
+![Domain Model UML](images/domain_model.png)
 
 ---
 
